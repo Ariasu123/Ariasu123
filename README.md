@@ -16,18 +16,4 @@
 
 - Email：ariasu_jtle@163.com
 
----
 
-## English
-
-I am currently a student at **Huazhong University of Science and Technology (HUST)**, focusing on **Large Language Models, AI Infrastructure, and Agentic Systems**.
-
-I enjoy understanding technologies by implementing model components, training pipelines, and automation tools—not only by calling existing model APIs. I am currently exploring the architecture, training, alignment, and inference optimization of language models.
-
-### ✍️ Writing
-
-I write about language models, AI infrastructure, engineering practices, and personal projects on my [technical blog](https://ariasu123.github.io/my-blog/).
-
-### 📫 Contact
-
-- Email: ariasu_jtle@163.com

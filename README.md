@@ -6,7 +6,7 @@
 
 - **[Ariasu-wiki](https://github.com/Ariasu123/Ariasu-wiki)**：个人知识库，侧重 AI Infra、Agent 等方向的结构化学习笔记
 
-- **[Agent-Toolkit](https://github.com/Ariasu123/Agent-Toolkit)**：收录通用及个人开发的 Skills、MCP Servers,以及常用的三类workflow
+- **[Agent-Toolkit](https://github.com/Ariasu123/Agent-Toolkit)**：收录精选开源与自研的 Skills、MCP Servers，以及三类常用 AI 开发工作流
 
 - **[my-blog](https://github.com/Ariasu123/my-blog)**：技术博客，在线阅读：[ariasu123.github.io/my-blog](https://ariasu123.github.io/my-blog/)
 

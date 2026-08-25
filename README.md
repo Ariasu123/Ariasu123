@@ -145,12 +145,6 @@ Currently exploring:
 ━━━━━━━━━━━━━━
 </div>
 
-## ◫ Development Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ariasu123&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariasu123&layout=compact&theme=github_dark&hide_border=true&exclude_repo=obsidian-repo-a" alt="Top Languages" />
-</p>
 
 <div align="center">
 <sub>Ariasu123 · ariasu_jtle@163.com · <a href="https://ariasu123.github.io/my-blog/">ariasu123.github.io/my-blog</a></sub>

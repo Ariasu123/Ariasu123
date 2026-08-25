@@ -3,7 +3,7 @@
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=python,pytorch,go,ts,docker,linux,git,githubactions&theme=dark"
-    height="36"
+    height="30"
     alt="Python, PyTorch, Go, TypeScript, Docker, Linux, Git, and GitHub Actions"
   />
 </p>
@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="./assets/learning/llm.svg" width="24%" alt="LLM — PyTorch, Transformers, Pretrain and SFT — Built" />
-  <img src="./assets/learning/rag.svg" width="24%" alt="RAG — GraphRAG, LightRAG and Vector Search — Built" />
+  <img src="./assets/learning/rag.svg" width="24%" alt="RAG — GraphRAG, Vector Search — Built" />
   <img src="./assets/learning/agent.svg" width="24%" alt="Agent — MCP, Agent Skills and Tool Use — Building" />
   <img src="./assets/learning/infra.svg" width="24%" alt="Infra — vLLM, CUDA and Distributed Systems — Exploring" />
 </p>

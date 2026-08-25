@@ -3,7 +3,7 @@
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=python,pytorch,go,ts,docker,linux,git,githubactions&theme=dark"
-    width="420"
+    height="36"
     alt="Python, PyTorch, Go, TypeScript, Docker, Linux, Git, and GitHub Actions"
   />
 </p>
@@ -29,9 +29,9 @@
 <h3>
   <a href="https://github.com/Ariasu123/Tinyllm">
     <img
-      src="https://raw.githubusercontent.com/Ariasu123/Tinyllm/main/assets/tinyllm-icon.png"
-      width="30"
-      height="30"
+      src="./assets/projects/tinyllm.svg"
+      width="24"
+      height="24"
       align="middle"
       alt="TinyLLM icon"
     />
@@ -62,8 +62,9 @@ A 54M Chinese language model trained from scratch with native PyTorch, covering 
 <h3>
   <a href="https://github.com/Ariasu123/Pion">
     <img
-      src="https://raw.githubusercontent.com/Ariasu123/Pion/main/docs/assets/pion-cover.png"
-      height="30"
+      src="./assets/projects/pion.svg"
+      width="24"
+      height="24"
       align="middle"
       alt="Pion icon"
     />
@@ -98,9 +99,9 @@ A lightweight, extensible terminal coding agent with tools, sessions, hooks, MCP
 <h3>
   <a href="https://github.com/Ariasu123/Nano-vLLM-Ext">
     <img
-      src="https://raw.githubusercontent.com/Ariasu123/Nano-vLLM-Ext/main/assets/logo.png"
-      width="30"
-      height="30"
+      src="./assets/projects/nano-vllm-ext.svg"
+      width="24"
+      height="24"
       align="middle"
       alt="Nano-vLLM-Ext icon"
     />

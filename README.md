@@ -3,7 +3,6 @@
 **AI Infrastructure Engineer** focusing on:
 
 - 🤖 **Agent Systems**
-- 🔎 **RAG & Knowledge Infrastructure**
 - ⚡ **LLM Inference Optimization**
 - 🛠 **Developer Tools**
 
@@ -19,16 +18,7 @@
 
 [![MCP](https://img.shields.io/badge/MCP-30363D?style=flat-square)](https://github.com/Ariasu123/Agent-Toolkit)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-30363D?style=flat-square)](https://github.com/Ariasu123/Agent-Toolkit)
-[![Playwright](https://img.shields.io/badge/Playwright-30363D?style=flat-square)](https://github.com/Ariasu123/Agent-Toolkit)
 [![Tool Use](https://img.shields.io/badge/Tool%20Use-30363D?style=flat-square)](https://github.com/Ariasu123/Agent-Toolkit)
-
-**🔎 Knowledge Systems**
-
-[![GraphRAG](https://img.shields.io/badge/GraphRAG-30363D?style=flat-square)](https://github.com/Ariasu123/GraphRAG-Kit)
-[![LightRAG](https://img.shields.io/badge/LightRAG-30363D?style=flat-square)](https://github.com/Ariasu123/GraphRAG-Kit)
-[![MinerU](https://img.shields.io/badge/MinerU-30363D?style=flat-square)](https://github.com/Ariasu123/GraphRAG-Kit)
-[![RAG](https://img.shields.io/badge/RAG-30363D?style=flat-square)](https://github.com/Ariasu123/GraphRAG-Kit)
-[![Hybrid Retrieval](https://img.shields.io/badge/Hybrid%20Retrieval-30363D?style=flat-square)](https://github.com/Ariasu123/GraphRAG-Kit)
 
 **⚡ LLM Infrastructure**
 
@@ -38,14 +28,6 @@
 [![Speculative Decoding](https://img.shields.io/badge/Speculative%20Decoding-30363D?style=flat-square)](https://github.com/Ariasu123/Nano-vLLM-Ext)
 [![Chunked Prefill](https://img.shields.io/badge/Chunked%20Prefill-30363D?style=flat-square)](https://github.com/Ariasu123/Nano-vLLM-Ext)
 
-**⚙ Backend & System**
-
-[![Python](https://img.shields.io/badge/Python-30363D?style=flat-square)](https://github.com/Ariasu123/InfraDigest)
-[![Go](https://img.shields.io/badge/Go-30363D?style=flat-square)](https://github.com/Ariasu123/AgentDisk)
-[![TypeScript](https://img.shields.io/badge/TypeScript-30363D?style=flat-square)](https://github.com/Ariasu123/Agent-Toolkit)
-[![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat-square)](https://github.com/Ariasu123/Ariasu-wiki)
-[![Docker](https://img.shields.io/badge/Docker-30363D?style=flat-square)](https://github.com/Ariasu123/Agent-Toolkit)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-30363D?style=flat-square)](https://github.com/Ariasu123/InfraDigest)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,ts,js,pytorch,docker,linux,git,githubactions,vscode&theme=dark" alt="Skills" />
@@ -157,7 +139,7 @@ Currently exploring:
 
 - **01 · Agent Infrastructure** — MCP, Tool orchestration, Agent Skills
 - **02 · LLM Runtime** — KV Cache, Scheduling, Speculative Decoding
-- **03 · Knowledge Intelligence** — GraphRAG, Hybrid Retrieval, Enterprise AI Systems
+
 
 <div align="center">
 ━━━━━━━━━━━━━━

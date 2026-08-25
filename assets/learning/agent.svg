@@ -1,12 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="220" height="92" viewBox="0 0 220 92" role="img" aria-labelledby="title desc">
   <title id="title">Agent learning stage</title>
   <desc id="desc">MCP, Agent Skills and Tool Use. Building.</desc>
-  <g fill="none" stroke="#58a6ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="100" y="8" width="20" height="15" rx="4"/>
-    <circle cx="106" cy="15.5" r="1.4" fill="#58a6ff" stroke="none"/>
-    <circle cx="114" cy="15.5" r="1.4" fill="#58a6ff" stroke="none"/>
-    <path d="M110 8V4M107 20h6M97 14v4M123 14v4"/>
-  </g>
+  <image href="https://cdn.simpleicons.org/claude/D97757" x="98" y="2" width="24" height="24" preserveAspectRatio="xMidYMid meet"/>
   <text x="110" y="41" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="700" fill="#58a6ff">Agent</text>
   <text x="110" y="58" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11.5" font-weight="600" fill="#e6edf3">MCP · Agent Skills</text>
   <text x="110" y="73" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="10.5" fill="#8b949e">Tool Use · Building</text>

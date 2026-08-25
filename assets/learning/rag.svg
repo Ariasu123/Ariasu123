@@ -1,12 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="220" height="92" viewBox="0 0 220 92" role="img" aria-labelledby="title desc">
   <title id="title">Knowledge learning stage</title>
   <desc id="desc">GraphRAG, Vector Search and LLM wiki. Built.</desc>
-  <g fill="none" stroke="#58a6ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="102" cy="15" r="3"/>
-    <circle cx="114" cy="8" r="3"/>
-    <circle cx="118" cy="20" r="3"/>
-    <path d="M104.6 13.5l6.8-4M105 16l10 3M115 10.8l2 6.3"/>
-  </g>
+  <image href="https://deepwiki.com/favicon.ico" x="97" y="2" width="26" height="26" preserveAspectRatio="xMidYMid meet"/>
   <text x="110" y="41" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="700" fill="#58a6ff">Knowledge</text>
   <text x="110" y="58" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11.5" font-weight="600" fill="#e6edf3">GraphRAG · Vector Search</text>
   <text x="110" y="73" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="10.5" fill="#8b949e">LLM wiki · Built</text>

@@ -30,7 +30,7 @@
 
     <circle cx="40" cy="145" r="4" fill="#58a6ff"/>
     <text x="55" y="150" class="stat-label">Total pull requests</text>
-    <text x="455" y="150" text-anchor="end" class="stat-value">8</text>
+    <text x="455" y="150" text-anchor="end" class="stat-value">7</text>
 
 
     <circle cx="40" cy="175" r="4" fill="#58a6ff"/>

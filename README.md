@@ -1,11 +1,12 @@
 ### ◇ Tech Stack
 
 <p align="center">
+
   <img
-    src="https://skillicons.dev/icons?i=python,pytorch,go,ts,docker,linux,git,githubactions&theme=dark"
-    height="30"
-    alt="Python, PyTorch, Go, TypeScript, Docker, Linux, Git, and GitHub Actions"
+    src="https://skillicons.dev/icons?i=linux,bash,git,gitlab,github,docker,aws,go,python,vscode&theme=dark"
+    width="470"
   />
+
 </p>
 
 ### ◈ Learning Journey

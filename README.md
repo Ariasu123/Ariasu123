@@ -30,9 +30,9 @@
 <h3>
   <a href="https://github.com/Ariasu123/Tinyllm">
     <img
-      src="./assets/projects/tinyllm.svg"
-      width="24"
-      height="24"
+      src="./assets/projects/tinyllm.png"
+      width="30"
+      height="30"
       align="middle"
       alt="TinyLLM icon"
     />
@@ -40,7 +40,7 @@
   &nbsp;<a href="https://github.com/Ariasu123/Tinyllm">TinyLLM</a>
 </h3>
 
-A 54M Chinese language model trained from scratch with native PyTorch, covering dense pretraining and full SFT.
+A 54M Chinese LLM built from scratch with native PyTorch, from pretraining to full SFT.
 
 <p>
   <img src="https://img.shields.io/badge/Python-30363D?style=flat-square" alt="Python">
@@ -63,8 +63,8 @@ A 54M Chinese language model trained from scratch with native PyTorch, covering 
 <h3>
   <a href="https://github.com/Ariasu123/Pion">
     <img
-      src="./assets/projects/pion.svg"
-      width="24"
+      src="./assets/projects/pion.png"
+      width="36"
       height="24"
       align="middle"
       alt="Pion icon"
@@ -73,7 +73,7 @@ A 54M Chinese language model trained from scratch with native PyTorch, covering 
   &nbsp;<a href="https://github.com/Ariasu123/Pion">Pion</a>
 </h3>
 
-A lightweight, extensible terminal coding agent with tools, sessions, hooks, MCP, and optional Docker sandboxing.
+A lightweight terminal coding agent with tools, MCP, hooks, and Docker sandboxing.
 
 <p>
   <img src="https://img.shields.io/badge/Python-30363D?style=flat-square" alt="Python">
@@ -100,9 +100,9 @@ A lightweight, extensible terminal coding agent with tools, sessions, hooks, MCP
 <h3>
   <a href="https://github.com/Ariasu123/Nano-vLLM-Ext">
     <img
-      src="./assets/projects/nano-vllm-ext.svg"
-      width="24"
-      height="24"
+      src="./assets/projects/nano-vllm-ext.png"
+      width="30"
+      height="30"
       align="middle"
       alt="Nano-vLLM-Ext icon"
     />
@@ -110,13 +110,12 @@ A lightweight, extensible terminal coding agent with tools, sessions, hooks, MCP
   &nbsp;<a href="https://github.com/Ariasu123/Nano-vLLM-Ext">Nano-vLLM-Ext</a>
 </h3>
 
-A lightweight inference engine extended with speculative decoding, chunked prefill, fair scheduling, and enhanced prefix caching.
+A compact vLLM extension for speculative decoding, chunked prefill, fair scheduling, and prefix caching.
 
 <p>
   <img src="https://img.shields.io/badge/Python-30363D?style=flat-square" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-30363D?style=flat-square" alt="PyTorch">
+  <img src="https://img.shields.io/badge/vLLM-30363D?style=flat-square" alt="vLLM">
   <img src="https://img.shields.io/badge/Speculative_Decoding-30363D?style=flat-square" alt="Speculative Decoding">
-  <img src="https://img.shields.io/badge/Chunked_Prefill-30363D?style=flat-square" alt="Chunked Prefill">
   <img src="https://img.shields.io/badge/Prefix_Cache-30363D?style=flat-square" alt="Prefix Cache">
   <a href="https://github.com/Ariasu123/Nano-vLLM-Ext">
     <img

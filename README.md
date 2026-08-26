@@ -3,8 +3,8 @@
 <p align="center">
 
   <img
-    src="https://skillicons.dev/icons?i=linux,bash,git,gitlab,github,docker,aws,go,python,vscode&theme=dark"
-    width="470"
+    src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,docker,aws,python,go,cpp,pytorch,fastapi,vscode,anaconda,markdown&theme=dark"
+    width="480"
   />
 
 </p>
